@@ -1,1 +1,1 @@
-In this project, we have created our own api to connect to Pinecone BL602 to database. Pinecone BL602 uses this api to make http post request in order to transfer the readings collected from the sensors to the supabase database.
+In this project, we have created our own api to connect to Pinecone BL602 to database and insert data. Pinecone BL602 uses this api to make http post request in order to transfer the readings collected from the sensors to the supabase database.
